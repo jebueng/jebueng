@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jebueng
 - 👀 I’m a back-end software engineer
-- 🌱 I’m currently learning WM CORE
+- 🌱 I’m currently working on CORE + react_admin
 - 💞️ I’m looking to collaborate on tickets
 - 📫 Reach me via Slack
 
